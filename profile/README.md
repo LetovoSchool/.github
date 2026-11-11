@@ -23,11 +23,11 @@ We value clear experimental protocols, reproducible results and honest discussio
 ### WFNO / Coupled
 Fourier–wavelet neural operators with information exchange between coarse features and local details. We study their accuracy, stability and ability to transfer across spatial grids.
 
-### NS Lab
-A research application for visualizing flow predictions and comparing the errors of different models.
+### PDE Lab
+A research application for visualizing PDE solutions and comparing the errors of different models.
 
 <details>
-<summary>По-русски</summary>
+<summary>Russian</summary>
 
 Мы — некоммерческая исследовательская инициатива школьников **Летово**. Наша цель — развивать науку с помощью машинного обучения и давать школьникам возможность участвовать в исследованиях.
 
